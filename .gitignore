@@ -16,3 +16,6 @@ Thumbs.db
 # VSCode
 .vscode/
 *.png
+*.csv
+*.xlsx
+*.pyc
