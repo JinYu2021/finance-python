@@ -1,1 +1,0 @@
-SELECT * FROM public.data_sql001 LIMIT 100;
